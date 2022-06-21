@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BekhruzErgashov
+- 👋 Hi, I’m @Bekhruz
 - 👀 I’m interested in web
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on python
