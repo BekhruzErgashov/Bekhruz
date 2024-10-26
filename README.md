@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bekhruz
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Sotware Engineering and AI
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on DataScience
 - 📫 How to reach me mr.bekhruz instagram, Bekhruz_Ergashov LinkedIn
 
